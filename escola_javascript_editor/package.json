@@ -1,4 +1,6 @@
 {
+  "author": "Elicarlos Ferreira",
+  "homepage": "develi.git",
   "name": "escola_javascript_editor",
   "version": "0.1.0",
   "private": true,
